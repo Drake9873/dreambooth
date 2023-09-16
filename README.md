@@ -32,3 +32,9 @@ If you use this work please cite:
 ## Disclaimer
 
 This is not an officially supported Google product.
+@inproceedings{ruiz2023dreambooth,
+  title={Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation},
+  author={Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2023}
+}
